@@ -1,0 +1,151 @@
+body{
+    background-image: url("./7suGLH.jpg");
+     background-size: cover; 
+}
+/* .conatiner{
+    border: 5px solid green;
+} */
+div{
+    
+    color: white;
+    display: flex;
+    border-radius: 30px;
+
+}
+.flex_item{
+    background-color: black;
+    border: 4px solid red;
+    height: 100px;
+    width: 300px;    
+}
+.flex_item1{
+    
+    background-color: black;
+    border: 4px solid red;
+    height: 50px;
+    width: 300px;
+    margin-left: 150px;
+    justify-content: center;   
+}
+.flex_item2{
+    background-color: black;
+    border: 4px solid red;
+    height: 100px;
+    width: 300px;
+    margin-left: 250px;
+    justify-content: center;
+
+}
+.form{
+    margin-top: 250px;
+    
+}
+.circle{
+    background-color: chocolate;
+    border: 5px solid gray;
+    border-radius: 150px;
+    margin-left: 50px;
+    margin-top: 300px;
+    height: 300px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.register-form{
+    background-color: white;
+    border-style: dashed;
+    color: red;
+    margin-left: 400px;
+    height: 900px;
+    width: 400px;
+    display: flex;
+    /* justify-content: center; */
+    text-align: center;
+    flex-direction: column;
+}
+.menu{
+    border: 5px solid red;
+    background-color: black;
+    color: white;
+    display: flex;
+    margin-left: 500px;
+    margin-top: 30px;
+    height: 50px;
+    width: 300px;
+    justify-content: center;
+}
+.food{
+    color: black;
+    display: flex;
+    border-radius: 20px;
+    
+    
+}
+.starters{
+      background-color: red;
+      display: flex;
+      flex-direction: column;
+      text-align: center;
+      margin-left: 40px;
+      margin-top: 40px;
+      height: 300px;
+      width: 300px;
+}
+.south-indian{
+    background-color: brown;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 170px;
+    height: 300px;
+    width: 300px;
+
+}
+.indian-kitchen{
+    background-color: yellowgreen;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 170px;
+    height: 300px;
+    width: 300px;
+}
+.drinks{
+    color: black;
+    display: flex;
+    border-radius: 20px;
+}
+.rice-salad{
+    background-color:crimson;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 40px;
+    height: 300px;
+    width: 300px;
+}
+.tandoori-bread{
+    background-color:gray;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 170px;
+    height: 300px;
+    width: 300px;
+}
+.beverage-others{
+    background-color:gold;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 170px;
+    height: 300px;
+    width: 300px;
+}
